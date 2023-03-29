@@ -1,3 +1,5 @@
+* [BirthMap](https://github.com/cliffano/birthmap) - Mapping birth places of groups of prominent people
+
 * [Kon-Tiki G10](https://github.com/cliffano/kon-tiki-g10) - Web 1.0 style web sites managed by Studio Cliffano - contributed by Gio's Garage
 * [PokéAPI Clients](https://github.com/cliffano/pokeapi-clients) - A set of generated API clients for Poké API from an OpenAPI v3 specification
 * [Typhlosion](https://github.com/cliffano/typhlosion) - Random Pokémon stuffs with Little Godzilla
