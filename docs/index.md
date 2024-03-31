@@ -19,11 +19,11 @@ Little Godzilla is a collection of open source utility libraries and tools that 
 
 ### Pokémon
 
-* [Typhlosion](https://github.com/cliffano/typhlosion) - Random Pokémon stuffs I play with my son
+* [Typhlosion](https://github.com/cliffano/typhlosion) - Random Pokémon stuffs my son and I dabble with
 
 ### D&D
 
-* [Volothamp](https://github.com/cliffano/volothamp) - Random D&D stuffs I play with my son
+* [Volothamp](https://github.com/cliffano/volothamp) - Random D&D stuffs my son and I dabble with
 
 ### Others
 
