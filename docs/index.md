@@ -1,11 +1,3 @@
-* [BirthMap](https://github.com/cliffano/birthmap) - Mapping birth places of groups of prominent people
-
-* [Kon-Tiki G10](https://github.com/cliffano/kon-tiki-g10) - Web 1.0 style web sites managed by Studio Cliffano - contributed by Gio's Garage
-
-
-
-* [Yu-Gi-Oh Card Game](https://github.com/cliffano/yu-gi-oh-card-game) - Yu-Gi-Oh! card game on the terminal
-
 ![Little Godzilla Logo](images/logo.png)
 
 # Little Godzilla
@@ -27,4 +19,5 @@ Little Godzilla is a collection of open source utility libraries and tools that 
 
 ### Others
 
-* TODO
+* [Yu-Gi-Oh Card Game](https://github.com/cliffano/yu-gi-oh-card-game) - Yu-Gi-Oh! card game on the terminal
+
