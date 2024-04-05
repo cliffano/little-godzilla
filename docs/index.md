@@ -2,7 +2,7 @@
 
 # Little Godzilla
 
-Little Godzilla is a collection of open source utility libraries and tools that I put together throughout the years in order to save myself from having to do annoying repetitive tasks.
+Little Godzilla is a collection of fun things that I play together with my son.
 
 ### Minecraft
 
@@ -20,4 +20,3 @@ Little Godzilla is a collection of open source utility libraries and tools that 
 ### Others
 
 * [Yu-Gi-Oh Card Game](https://github.com/cliffano/yu-gi-oh-card-game) - Yu-Gi-Oh! card game on the terminal
-
