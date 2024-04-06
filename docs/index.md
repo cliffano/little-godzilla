@@ -11,6 +11,7 @@ Little Godzilla is a collection of fun things that I play together with my son.
 
 ### Pokémon
 
+* [PokéAPI Clients](https://github.com/oapicf/pokeapi-clients) - A set of generated API clients for Poké API from an OpenAPI v3 specification
 * [Typhlosion](https://github.com/cliffano/typhlosion) - Random Pokémon stuffs my son and I dabble with
 
 ### D&D
